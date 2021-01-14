@@ -1,0 +1,58 @@
+.logo-style img{
+    width: 300px;
+}
+.coloums{
+    column-count: 2;
+    margin: 0 auto;
+}
+.width-size img{
+    width: 500px;
+}
+.new-color{
+    color: orange;
+    font-size: 40px;
+}
+.other-color{
+    color: slategrey;
+    font-size: 40px;
+}
+.buy-now{
+    background-color: olivedrab;
+    width: 200px;
+    height: 80px;
+    border-radius: 10px;
+    text-align: center;
+}
+.winter{
+    background-color:seashell;
+}
+.colorful-text{
+    color: mediumslateblue;
+}
+.buy-decoration{
+    background-color: olivedrab;
+    height: 50px;
+    width: 150px;
+}
+
+.third-step img{
+    width: 600px;
+    height: 400px;
+}
+.img-size{
+    height: 35px;
+}
+
+.display-box{
+    display: flex;
+    
+}
+
+.box-position{
+    position: relative;
+    left: 120px;
+}
+
+.dollar-color{
+    color: orangered;
+}
